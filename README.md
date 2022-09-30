@@ -52,6 +52,8 @@ Churn: Target, Whether the customer has left within the last month or not (Yes o
 
 
 Questions
+.
+.
 In this projects below questions will be answered:
 
 What's the % of Customers Churn and customers that keep in with the active services?
