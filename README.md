@@ -51,9 +51,9 @@ TotalCharges: The total amount charged to the customer
 Churn: Target, Whether the customer has left within the last month or not (Yes or No)
 
 
-Questions
-.
-.
+.Questions
+
+
 In this projects below questions will be answered:
 
 What's the % of Customers Churn and customers that keep in with the active services?
