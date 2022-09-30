@@ -1,5 +1,8 @@
 # Mid-project
 . Dataset Features
+
+7043x21
+
 Customer ID: A unique ID that identifies each customer.
 Demographic info about customers:
 
